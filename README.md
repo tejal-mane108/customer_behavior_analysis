@@ -193,9 +193,8 @@ pip install pandas numpy matplotlib seaborn mysql-connector-python
 
 Master's in Artificial Intelligence | Software Engineer | Data Analytics Enthusiast
 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
-- GitHub: https://github.com/your-github
-
+- LinkedIn: https://www.linkedin.com/in/tejalmane108/
+- GitHub: https://github.com/tejal-mane108/
 ---
 
 ## 📄 License
