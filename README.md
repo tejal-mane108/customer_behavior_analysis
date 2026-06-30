@@ -141,7 +141,7 @@ Data-Analytics-Project/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/data-analytics-project.git
+git clone https://github.com/tejal-mane108/customer_behavior_analysis.git
 ```
 
 ### Install Required Libraries
